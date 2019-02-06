@@ -2,7 +2,7 @@
   "name": "matchers",
   "version": "1.0.0",
   "description": "matchers",
-  "main": "index.js",
+  "main": "src/js/sortMaxHealth.js",
   "scripts": {
     "test": "jest test.js --coverage"
   },
